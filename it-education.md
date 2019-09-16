@@ -1,5 +1,7 @@
 # IT Education Path for Kids
 
+## Main path
+
 ### Talk about how the world works
 
 Talk with you kids about the world.
@@ -103,7 +105,7 @@ References:
 - [RoboRally at BoardGameGeek](https://boardgamegeek.com/boardgame/18/roborally)
 
 
-# Other topics
+## Other topics
 
 ### Web programming
 
