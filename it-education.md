@@ -1,4 +1,4 @@
-# IT Edudaction Path for Kids
+# IT Education Path for Kids
 
 ### Talk about how the world works
 
@@ -31,14 +31,17 @@ References:
 
 ### ScratchJr
 
+In the first programming on a computer the kids will create simpe animations and games.
 
 Recommended age: 5-7
 
 References:
 - [ScratchJr website](https://www.scratchjr.org/)
 
+
 ### Scratch
 
+The kids will be able to create any program, in an easy way.
 
 Recommended age: 8-16
 
@@ -51,16 +54,24 @@ References:
 First real programming language the kids will learn.
 
 References:
-- [ website]()
+- [Python for Kids – A Playful Introduction to Programming](https://nostarch.com/pythonforkids)  this is the best book. However, I have some reservations regarding the programming methodology. (Basically, we should start with a problem, then explain the algorithm with words and code it in a programming language. Here the author jumps directly to Python.)
 
 
 ### Java or C#
 
 These languages have other concepts the kids should internalize (like data types, classes...).
 
+References:
+- TODO
+
+
 ### C
 
 When learning the C language, the kids will learn about topics that are considered quite low level in 2019. These include: pointers, passing parameters by value or by reference...
+
+References:
+- TODO
+
 
 ### Prolog or Haskell
 
@@ -76,6 +87,9 @@ There are some tips:
 - Shortest path - graphs
 - ...
 
+References:
+- [The Importance of Algorithms for Kids](https://junilearning.com/blog/importance-of-algorithms-for-kids.html)
+
 
 ### RoboRally
 
@@ -87,3 +101,5 @@ References:
 - [RoboRally at BoardGameGeek](https://boardgamegeek.com/boardgame/18/roborally)
 
 
+# To Do
+- IT Ducation Methodology – Didactics for teaching mathematics evolved in past couple of centuries. What is didactics for IT? 
