@@ -55,6 +55,8 @@ First real programming language the kids will learn.
 
 References:
 - [Python for Kids – A Playful Introduction to Programming](https://nostarch.com/pythonforkids)  this is the best book. However, I have some reservations regarding the programming methodology. (Basically, we should start with a problem, then explain the algorithm with words and code it in a programming language. Here the author jumps directly to Python.)
+- [learnpython.org](https://www.learnpython.org/)
+- [Python Exercises for Kids](https://blog.regehr.org/archives/1300)
 
 
 ### Java or C#
@@ -99,6 +101,15 @@ Recommended age: 10+
 
 References:
 - [RoboRally at BoardGameGeek](https://boardgamegeek.com/boardgame/18/roborally)
+
+
+# Other topics
+
+### Web programming
+
+To create anything reasonable on web, we need understand XML, HTML, CSS, JavaScript and libraries. That's a large body of knowledge. Plus, to replicate something ("I want to create the same webpage") is difficult.
+
+I recommend doing this after Python.
 
 
 # To Do
