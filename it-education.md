@@ -50,7 +50,8 @@ This always has a form of a game.
 Recommended age: 3+
 
 There are some tips:
-- [https://code.org/curriculum/course2/2/Activity2-RealLifeAlgorithms.pdf](Paper Airplane Worksheet) - put steps in order, handle the algorithm to a friend, watch him or her to build it
+- Robot Commander (see another chapter)
+- [Paper Airplane Worksheet](https://code.org/curriculum/course2/2/Activity2-RealLifeAlgorithms.pdf) - put steps in order, handle the algorithm to a friend, watch him or her to build it
 - [Teaching Graph Algorithms To Children Of All Ages](https://www.researchgate.net/publication/254462782_Teaching_graph_algorithms_to_children_of_all_ages) – Graphs from beginning, ends with shortest path algorithm. Includes ideas (activities, questions...) for the teacher. Age 5–17.
 
 References:
