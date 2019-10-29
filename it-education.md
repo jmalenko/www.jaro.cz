@@ -12,8 +12,10 @@ Recommended topics:
 - Cutting the pizza – Intruce terminoloy like whole, half, quarter, eight...
 - Games – Donino, Checkers, ...
 - Nontrivial talkting topics
--- Talk about ancestors, who they are. (Scientific reason: [Knowing family history can be beneficial to children](https://edition.cnn.com/2015/06/03/living/telling-kids-family-history-benefits-feat/index.html): A study involved asking children a range of questions such as whether they knew where their parents met and where they grew up and went to school. The authors found that the more children knew about their family history, the higher their self-esteem and the better able they were to deal with the effects of stress. Family stories provide a sense of identity through time, and help children understand who they are in the world.)
--- Bake together
+  - Talk about ancestors, who they were, how they lived. (Scientific reason: [Knowing family history can be beneficial to children](https://edition.cnn.com/2015/06/03/living/telling-kids-family-history-benefits-feat/index.html).)
+  
+    A study involved asking children a range of questions such as whether they knew where their parents met and where they grew up and went to school. The authors found that the more children knew about their family history, the higher their self-esteem and the better able they were to deal with the effects of stress. Family stories provide a sense of identity through time, and help children understand who they are in the world.)
+  - Bake together
 - Have you heard "Dad, can you tell about X", where is X is still the same? OK, do that. Early take turns: first, parents tels the sotry; then the kid tells the same story (in simpler form, with own language).
 
 
@@ -24,18 +26,32 @@ Do not use computers yet.
 
 Recommended age: 2+
 
+There are some tips:
+- Phases
+  - Kid is robot: Kid follows commands by adult
+  - Adult is robot: Adult follows commands by kid
+  - Start with "normally simple commands" - one step ahead, turn left, turn right
+  - Do it again without "rurn right" (use "turn left" repeatedly)
+  - Introduce errors – Commender: "one step ahead" Robot: "I cannot, there is no space"
+  - Introduce conditions - "If you see a dog then bark"
+  - Introduce cycles - "do 10 steps", "do steps until you reach the wall", "while the glass is not empty, do a sip"
+  - Introduce events - "if someone enters the room, say 'Hello human'".
+
 
 ### Algorithms – initial steps
 
 Before mentioning an algorithm, let's build some basics:
 - the computer is quite stupid; it can only follow simple commands
 - commands (statements), conditions, cycles
+- termination, effectiveness
+
 This always has a form of a game.
 
 Recommended age: 3+
 
 There are some tips:
-- 
+- []() [https://code.org/curriculum/course2/2/Activity2-RealLifeAlgorithms.pdf](Paper Airplane Worksheet)
+- [Teaching Graph Algorithms To Children Of All Ages](https://www.researchgate.net/publication/254462782_Teaching_graph_algorithms_to_children_of_all_ages) – Graphs from beginning, ends with shortest path algorithm. Includes ideas (activities, questions...) for the teacher. Age 5–17.
 
 References:
 - To understand where the algortihm education for kids leads, refer to references in "Algorithms 2 – serious introduction" chapter.
@@ -84,13 +100,16 @@ References:
 
 ### Algorithms 2 – serious introduction
 
-The kids should learn about algorithms because knowing the algorithm is first and then expressing the algorithm in a programming language is second.
+There are several educational (basic and interesting) algortihms to start with.
 
 Recommended age: ~8
 
 There are some tips:
 - Sorting – includes: arrays, introduction to complexity, recursion (quicksort)
 - Shortest path - graphs
+- Combinatorics
+- (Pseudo) Random number generators
+- Encryption, cryptography
 - ...
 
 References:
@@ -152,6 +171,11 @@ To create anything reasonable on web, we need understand XML, HTML, CSS, JavaScr
 
 I recommend doing this after Python.
 
+### References
+- Tips by others
+  - [https://www.techagekids.com/2018/03/solving-problems-with-algorithms.html](Solving problems with algorithms: Resources for younger children and their parents)
+  - [https://chromatichq.com/blog/teaching-algorithms-first-graders](Teaching algorithms to first graders)
 
-# To Do
+### To Do
 - IT Ducation Methodology – Didactics for teaching mathematics evolved in past couple of centuries. What is didactics for IT? 
+
