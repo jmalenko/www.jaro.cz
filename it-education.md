@@ -11,6 +11,10 @@ Recommended age: 2+
 Recommended topics:
 - Cutting the pizza – Intruce terminoloy like whole, half, quarter, eight...
 - Games – Donino, Checkers, ...
+- Nontrivial talkting topics
+-- Talk about ancestors, who they are. (Scientific reason: [Knowing family history can be beneficial to children](https://edition.cnn.com/2015/06/03/living/telling-kids-family-history-benefits-feat/index.html): A study involved asking children a range of questions such as whether they knew where their parents met and where they grew up and went to school. The authors found that the more children knew about their family history, the higher their self-esteem and the better able they were to deal with the effects of stress. Family stories provide a sense of identity through time, and help children understand who they are in the world.)
+-- Bake together
+- Have you heard "Dad, can you tell about X", where is X is still the same? OK, do that. Early take turns: first, parents tels the sotry; then the kid tells the same story (in simpler form, with own language).
 
 
 ### Robot Commander
@@ -19,6 +23,23 @@ Use direct commands to command the rebot.
 Do not use computers yet.
 
 Recommended age: 2+
+
+
+### Algorithms – initial steps
+
+Before mentioning an algorithm, let's build some basics:
+- the computer is quite stupid; it can only follow simple commands
+- commands (statements), conditions, cycles
+This always has a form of a game.
+
+Recommended age: 3+
+
+There are some tips:
+- 
+
+References:
+- To understand where the algortihm education for kids leads, refer to references in "Algorithms 2 – serious introduction" chapter.
+- [The Importance of Algorithms for Kids](https://junilearning.com/blog/importance-of-algorithms-for-kids.html)
 
 
 ### DragonBox Algebra 5+
@@ -61,6 +82,22 @@ References:
 - [Python Exercises for Kids](https://blog.regehr.org/archives/1300)
 
 
+### Algorithms 2 – serious introduction
+
+The kids should learn about algorithms because knowing the algorithm is first and then expressing the algorithm in a programming language is second.
+
+Recommended age: ~8
+
+There are some tips:
+- Sorting – includes: arrays, introduction to complexity, recursion (quicksort)
+- Shortest path - graphs
+- ...
+
+References:
+- [Algorithm definition on Simple Wikipedia] (https://simple.m.wikipedia.org/wiki/Algorithm) – introductory, shows three different algortihms to the sorting
+- [Algorithm definition in Kids Encyclopedia](http://encyclopedia.kids.net.au/page/al/Algorithm)
+
+
 ### Java or C#
 
 These languages have other concepts the kids should internalize (like data types, classes...).
@@ -82,17 +119,19 @@ References:
 So far the kids learned the procedural programming. There is another kind of programming called declarative programming. 
 
 
-### Algorithms
+### Algorithms 3 – computer science
 
 The kids should learn about algorithms because knowing the algorithm is first and then expressing the algorithm in a programming language is second.
 
+Recommended age: ~12
+
 There are some tips:
-- Sorting – includes, arrays, introduction to complexity, recursion (quicksort)
+- Sorting – includes: arrays, introduction to complexity, recursion (quicksort)
 - Shortest path - graphs
 - ...
 
 References:
-- [The Importance of Algorithms for Kids](https://junilearning.com/blog/importance-of-algorithms-for-kids.html)
+- 
 
 
 ### RoboRally
