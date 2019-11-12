@@ -53,7 +53,7 @@ There are some tips:
 - Robot Commander (see another chapter)
 - [Paper Airplane Worksheet](https://code.org/curriculum/course2/2/Activity2-RealLifeAlgorithms.pdf) - put steps in order, handle the algorithm to a friend, watch him or her to build it
 - [Teaching Graph Algorithms To Children Of All Ages](https://www.researchgate.net/publication/254462782_Teaching_graph_algorithms_to_children_of_all_ages) – Graphs from beginning, ends with shortest path algorithm. Includes ideas (activities, questions...) for the teacher. Age 5–17.
-- [introducing Algorithms](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/introducing-algorithms) – Color some fields in the grid such that we get a checkboard. Age 3-4.
+- [Introducing Algorithms](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/introducing-algorithms) – Color some fields in the grid such that we get a checkboard. Age 3-4.
 
 References:
 - To understand where the algortihm education for kids leads, refer to references in "Algorithms 2 – serious introduction" chapter.
@@ -107,6 +107,9 @@ There are several educational (basic and interesting) algortihms to start with.
 Recommended age: ~8
 
 There are some tips:
+- [CS Unplugged](https://csunplugged.org/en/) ([older version](https://classic.csunplugged.org/activities/), [printables](https://csunplugged.org/en/resources/)) – A collection of learning activities to teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around. Each activity has a PDF with full instructions and worksheets.
+
+There are some areas of Computer Science thats are suitable for kids:
 - Sorting – includes: arrays, introduction to complexity, recursion (quicksort)
 - Shortest path - graphs
 - Combinatorics
@@ -174,12 +177,16 @@ To create anything reasonable on web, we need understand XML, HTML, CSS, JavaScr
 I recommend doing this after Python.
 
 ### References
+- [Teaching CS in Kindergarten: How Early Can the Pipeline Begin?](http://www-public.imtbs-tsp.eu/~gibson/Schools/Documents/ACM-Inroads-Teaching-CS-in-kindergarten.pdf) – Kids cannot understand abstraction before the age of seven. Even older children (seven to eleven years of age) who are at the concrete operational stage, can only solve problems that apply to actual (concrete) objects or events, and not abstract concepts or hypothetical tasks.
 - Tips by others
   - [Solving problems with algorithms: Resources for younger children and their parents](https://www.techagekids.com/2018/03/solving-problems-with-algorithms.html)
   - [Teaching algorithms to first graders](https://chromatichq.com/blog/teaching-algorithms-first-graders)
   - [How To Introduce Algorithms To Kids](https://www.myprivatetutor.ae/blog/how-to-introduce-algorithms-to-kids)
+- Teacher evaluation
+  - [Abstraction in Action: K-5 Teachers' Uses of Levels of Abstraction, Particularly the Design Level, in Teaching Programming.](https://www.semanticscholar.org/paper/Abstraction-in-Action%3A-K-5-Teachers'-Uses-of-Levels-Waite-Curzon/4a7142917963c0dab52a41238ca28f082bdf6b4c) – Evaluations of Coputer Science teachers. Includes quotations of expert and novice teachers. Demonstrates that skileld teachers, that know vocabulary and "what's next" are better.
+
 
 ### To Do
-- IT Ducation Methodology – Didactics for teaching mathematics evolved in past couple of centuries. What is didactics for IT? 
+- IT Education Methodology – Didactics for teaching mathematics evolved in past couple of centuries. What is didactics for IT? 
 - Book: [https://lernerbooks.com/series/10511-kids-get-coding](Kids Get Coding)
 
