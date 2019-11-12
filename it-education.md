@@ -53,6 +53,7 @@ There are some tips:
 - Robot Commander (see another chapter)
 - [Paper Airplane Worksheet](https://code.org/curriculum/course2/2/Activity2-RealLifeAlgorithms.pdf) - put steps in order, handle the algorithm to a friend, watch him or her to build it
 - [Teaching Graph Algorithms To Children Of All Ages](https://www.researchgate.net/publication/254462782_Teaching_graph_algorithms_to_children_of_all_ages) – Graphs from beginning, ends with shortest path algorithm. Includes ideas (activities, questions...) for the teacher. Age 5–17.
+- [introducing Algorithms](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/introducing-algorithms) – Color some fields in the grid such that we get a checkboard. Age 3-4.
 
 References:
 - To understand where the algortihm education for kids leads, refer to references in "Algorithms 2 – serious introduction" chapter.
@@ -94,7 +95,7 @@ References:
 First real programming language the kids will learn.
 
 References:
-- [Python for Kids – A Playful Introduction to Programming](https://nostarch.com/pythonforkids)  this is the best book. However, I have some reservations regarding the programming methodology. (Basically, we should start with a problem, then explain the algorithm with words and code it in a programming language. Here the author jumps directly to Python.)
+- [Python for Kids – A Playful Introduction to Programming](https://nostarch.com/pythonforkids) – This is the best book I've found. However, I have some reservations regarding the programming methodology. (Basically, we should start with a problem, then explain the algorithm with words and code it in a programming language. Here the author jumps directly to Python.)
 - [learnpython.org](https://www.learnpython.org/)
 - [Python Exercises for Kids](https://blog.regehr.org/archives/1300)
 
@@ -174,9 +175,11 @@ I recommend doing this after Python.
 
 ### References
 - Tips by others
-  - [https://www.techagekids.com/2018/03/solving-problems-with-algorithms.html](Solving problems with algorithms: Resources for younger children and their parents)
-  - [https://chromatichq.com/blog/teaching-algorithms-first-graders](Teaching algorithms to first graders)
+  - [Solving problems with algorithms: Resources for younger children and their parents](https://www.techagekids.com/2018/03/solving-problems-with-algorithms.html)
+  - [Teaching algorithms to first graders](https://chromatichq.com/blog/teaching-algorithms-first-graders)
+  - [How To Introduce Algorithms To Kids](https://www.myprivatetutor.ae/blog/how-to-introduce-algorithms-to-kids)
 
 ### To Do
 - IT Ducation Methodology – Didactics for teaching mathematics evolved in past couple of centuries. What is didactics for IT? 
+- Book: [https://lernerbooks.com/series/10511-kids-get-coding](Kids Get Coding)
 
