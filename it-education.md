@@ -55,9 +55,11 @@ Recommended age: 3+
 
 There are some tips:
 - Robot Commander (see another chapter)
-- [Paper Airplane Worksheet](https://code.org/curriculum/course2/2/Activity2-RealLifeAlgorithms.pdf) - put steps in order, handle the algorithm to a friend, watch him or her to build it.
+- [Graph Paper Programming](https://code.org/curriculum/course2/1/Teacher) – In a grid, color some cells by black by using commands move (4 directions), fill with color.
+- [Paper Airplane Worksheet](https://code.org/curriculum/course2/2/Teacher) - Put steps in order, handle the algorithm to a friend, watch him or her to build it.
 - [Teaching Graph Algorithms To Children Of All Ages](https://www.researchgate.net/publication/254462782_Teaching_graph_algorithms_to_children_of_all_ages) – Graphs from beginning, ends with shortest path algorithm. Includes ideas (activities, questions...) for the teacher. Age 5–17.
 - [Introducing Algorithms](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/introducing-algorithms) – Color some fields in the grid such that we get a checkboard. Age 3-4.
+
 
 References:
 - To understand where the algortihm education for kids leads, refer to references in "Algorithms 2 – serious introduction" chapter.
@@ -196,6 +198,7 @@ I recommend doing this after Python.
   - [Abstraction in Action: K-5 Teachers' Uses of Levels of Abstraction, Particularly the Design Level, in Teaching Programming.](https://www.semanticscholar.org/paper/Abstraction-in-Action%3A-K-5-Teachers'-Uses-of-Levels-Waite-Curzon/4a7142917963c0dab52a41238ca28f082bdf6b4c) – Evaluations of Coputer Science teachers. Includes quotations of expert and novice teachers. Demonstrates that skileld teachers, that know vocabulary and "what's next" are better.
 - Inspirations for the entire curriculum
   - [WhiteHat Jr Kids Coding Curriculum is designed for peak kid creative expression](https://www.whitehatjr.com/curriculum) - Curriculum for grades 1 to 9, in India.
+  - [Code.org](https://studio.code.org/courses)
 
 
 ### To Do
