@@ -98,16 +98,6 @@ References:
 - [Scratch website](https://scratch.mit.edu/about)
 
 
-### Python
-
-First real programming language the kids will learn.
-
-References:
-- [Python for Kids – A Playful Introduction to Programming](https://nostarch.com/pythonforkids) – This is the best book I've found. However, I have some reservations regarding the programming methodology. (Basically, we should start with a problem, then explain the algorithm with words and code it in a programming language. Here the author jumps directly to Python.)
-- [learnpython.org](https://www.learnpython.org/)
-- [Python Exercises for Kids](https://blog.regehr.org/archives/1300)
-
-
 ### Algorithms 2 – serious introduction
 
 There are several educational (basic and interesting) algortihms to start with.
@@ -129,7 +119,19 @@ References:
 - [Algorithm definition on Simple Wikipedia] (https://simple.m.wikipedia.org/wiki/Algorithm) – introductory, shows three different algortihms to the sorting.
 - [Algorithm definition in Kids Encyclopedia](http://encyclopedia.kids.net.au/page/al/Algorithm)
 - [What is debugging](https://www.theschoolrun.com/what-is-debugging) – Debugging explained.
-- [Codewars](https://www.codewars.com/) – Webová aplikace obsahuje mnoho úkolů, které má progrmátor vyřešit ve svém oblíbeném programovacím jazyce. Stránka s úkolem obsahuje: 1. Informace o úkolu (spočítejte fibonaččiho posloupnost; ta začíná čísa dvěmi jedničkami, každý další prvek je součtem předchoích dvou prvků), popis vstupu a výstupu (napiště funkci, která má jako paramter požadovanou délku posloupnosti, a výstupem je pole uvedené délky s prvky posloupnosti). 2. Textové poloe pro psaní kódu pv programovacím jazyce. 3. Ukázkové vstupy a výstupy. Po odeslání se kód spustí, otestuje se na ukázových vstupech. Při chybě je zobrana chybová hláška včetně kontextu (jaká chyba se stala, na kterém řádku se stala, zásobník).
+- After this course, the kids should be able to go through some on-line courses alone:
+  - [Programming couses on Khan Academy](https://www.khanacademy.org/computing/) – [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) or [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+  - [Codewars](https://www.codewars.com/) – Webová aplikace obsahuje mnoho úkolů, které má progrmátor vyřešit ve svém oblíbeném programovacím jazyce. Stránka s úkolem obsahuje: 1. Informace o úkolu (spočítejte fibonaččiho posloupnost; ta začíná čísa dvěmi jedničkami, každý další prvek je součtem předchoích dvou prvků), popis vstupu a výstupu (napiště funkci, která má jako paramter požadovanou délku posloupnosti, a výstupem je pole uvedené délky s prvky posloupnosti). 2. Textové poloe pro psaní kódu pv programovacím jazyce. 3. Ukázkové vstupy a výstupy. Po odeslání se kód spustí, otestuje se na ukázových vstupech. Při chybě je zobrana chybová hláška včetně kontextu (jaká chyba se stala, na kterém řádku se stala, zásobník).
+
+
+### Python
+
+First real programming language the kids will learn.
+
+References:
+- [Python for Kids – A Playful Introduction to Programming](https://nostarch.com/pythonforkids) – This is the best book I've found. However, I have some reservations regarding the programming methodology. (Basically, we should start with a problem, then explain the algorithm with words and code it in a programming language. Here the author jumps directly to Python.)
+- [learnpython.org](https://www.learnpython.org/)
+- [Python Exercises for Kids](https://blog.regehr.org/archives/1300)
 
 
 ### Java or C#
